@@ -129,9 +129,9 @@ High-performance connected lighting controller with wireless control.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZainAbbas2001&show_icons=true&theme=github_dark&include_all_commits=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZainAbbas2001&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZainAbbas2001&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZainAbbas2001&theme=github_dark"/>
 
 </p>
 
@@ -143,6 +143,16 @@ High-performance connected lighting controller with wireless control.
 <img src="https://streak-stats.demolab.com?user=ZainAbbas2001&theme=github-dark"/>
 
 </p>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZainAbbas2001&theme=github_dark"/>
+
+</p>
+
 
 ---
 
