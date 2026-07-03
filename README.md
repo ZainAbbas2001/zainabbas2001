@@ -127,11 +127,24 @@ High-performance connected lighting controller with wireless control.
 
 # 📊 GitHub Statistics
 
+<p align="center">
 
-![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainabbas2001&show_icons=true&theme=transparent)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZainAbbas2001&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAbbas2001&layout=compact&theme=transparent"/>
+
+</p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainabbas2001&layout=compact&theme=transparent)
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainAbbas2001&theme=transparent"/>
+
+</p>
 
 
 ---
